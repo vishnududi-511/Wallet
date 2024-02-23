@@ -5,7 +5,7 @@ toggle_box.addEventListener("click", function () {
 })
 
 
-let menuicons = document.querySelector("#menubar")
+let menuicons = document.querySelector("#menuicon")
 let navlist = document.querySelector(".nav-items")
 
 menuicons.addEventListener("click", () => {
